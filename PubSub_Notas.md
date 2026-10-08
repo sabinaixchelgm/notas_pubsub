@@ -167,7 +167,7 @@ Pub/Sub cifra datos en tránsito y en reposo. Esto no equivale a cifrado de extr
 
 Fuente: https://docs.cloud.google.com/pubsub/docs/encryption
 
-## 12. Frase para recordar o explicar en entrevista
+## 12. Frase para recordar 
 
 Pub/Sub desacopla productores y consumidores mediante topics y subscriptions. El productor publica al topic y cada subscription mantiene un consumo independiente. Los consumidores confirman las entregas, y el diseño debe contemplar reintentos, retención e idempotencia.
 
